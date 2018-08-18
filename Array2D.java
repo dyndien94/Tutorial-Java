@@ -7,8 +7,6 @@ public class Utama {
     Buah danas adalah milik pak bahenol
    */
 
-
-
 	public static void main(String[] args) {
 		String [][] pemilikBuah  = new String [][] {
 			{"anggur", "durian", "melon", "danas"},
